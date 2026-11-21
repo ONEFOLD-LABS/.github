@@ -13,16 +13,8 @@ Local first. No account. Open source.</p>
 | | Project | What it is | Status |
 |---|---|---|---|
 | <img src="assets/studiocraft.svg" width="40" alt=""> | [**StudioCraft**](https://github.com/ONEFOLD-LABS/StudioCraft) | Digital audio workstation | In development |
-| <img src="assets/codecraft.svg" width="40" alt=""> | **CodeCraft** | Code editor and development environment | Planned |
-| <img src="assets/termcraft.svg" width="40" alt=""> | **TermCraft** | Terminal emulator | Planned |
-| <img src="assets/gitcraft.svg" width="40" alt=""> | [**GitCraft**](https://github.com/ONEFOLD-LABS/GitCraft) | Git client | In development |
-| <img src="assets/datacraft.svg" width="40" alt=""> | **DataCraft** | Database and SQL client | Planned |
-| <img src="assets/cloudcraft.svg" width="40" alt=""> | **CloudCraft** | Container and infrastructure management | Planned |
-| <img src="assets/issuecraft.svg" width="40" alt=""> | **IssueCraft** | Issue tracking and project management | Planned |
 
-Names of planned projects are provisional.
-
-### What every project shares
+### What it stands for
 
 - **Local first.** Works without a network; cloud features are optional.
 - **No account.** Nothing to sign up for.
